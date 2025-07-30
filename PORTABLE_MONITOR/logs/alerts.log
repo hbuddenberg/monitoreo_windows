@@ -1,0 +1,4 @@
+2025-07-30 18:40:42,501 - WARNING - Configuración de email incompleta
+2025-07-30 18:40:43,004 - INFO - Slack enviado: Test de Monitor Portable
+2025-07-30 18:40:43,024 - INFO - Notificación enviada: Test de Monitor Portable
+2025-07-30 18:40:43,024 - ERROR - Error enviando alerta: Test de Monitor Portable

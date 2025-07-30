@@ -30,3 +30,109 @@
 2025-07-30 13:02:51,573 - INFO - Iniciando monitoreo portable...
 2025-07-30 13:02:51,638 - INFO - Monitor portable activo - Threads: 2
 2025-07-30 13:03:46,383 - INFO - Monitor portable detenido
+2025-07-30 17:42:49,563 - INFO - Monitoreando archivos en: C:\Users\hansbuddenberg/Desktop
+2025-07-30 17:42:49,564 - INFO - Monitoreando archivos en: C:\Users\hansbuddenberg/Downloads
+2025-07-30 17:42:49,564 - INFO - Monitoreando archivos en: C:\Users\hansbuddenberg/Documents
+2025-07-30 17:42:49,564 - INFO - Monitoreando archivos en: C:\Users\hansbuddenberg/AppData/Local/Temp
+2025-07-30 17:42:49,564 - INFO - Monitor Portable Completo iniciado
+2025-07-30 17:42:49,564 - INFO - Iniciando Monitor Portable Completo
+2025-07-30 17:42:49,729 - INFO - Monitor activo - Threads: 4/4
+2025-07-30 17:42:49,931 - WARNING - ALERTA: 🎯 Evento Específico Encontrado: ID 1074 - Se detectó el Event ID 1074 que está configurado para monitoreo prioritario
+2025-07-30 17:42:55,597 - WARNING - ALERTA: 🎯 Evento Específico Encontrado: ID 6008 - Se detectó el Event ID 6008 que está configurado para monitoreo prioritario
+2025-07-30 17:42:56,381 - WARNING - ALERTA: 🎯 Evento Específico Encontrado: ID 41 - Se detectó el Event ID 41 que está configurado para monitoreo prioritario
+2025-07-30 17:43:49,743 - INFO - Monitor activo - Threads: 4/4
+2025-07-30 17:44:48,445 - INFO - Monitor Portable Completo detenido
+2025-07-30 18:22:47,620 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:22:47,621 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:22:47,661 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:22:47,684 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:22:47,732 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:24:09,326 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:24:09,326 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:24:09,414 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:24:09,449 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:24:09,510 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:25:09,493 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:26:09,502 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:27:09,515 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:28:09,516 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:29:09,530 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:30:09,545 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:31:09,560 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:32:09,576 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:33:09,584 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:33:49,831 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:33:49,832 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:33:49,887 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:33:49,898 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:33:50,025 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:33:50,959 - WARNING - ALERTA: Alto Uso de Memoria - Memoria al 96.0%
+2025-07-30 18:34:09,591 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:34:12,621 - WARNING - ALERTA: Alto Uso de Memoria - Memoria al 93.0%
+2025-07-30 18:34:49,953 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:35:09,592 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:35:49,960 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:36:09,605 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:37:09,610 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:38:04,580 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:38:04,581 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:38:04,692 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:38:04,738 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:38:04,794 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:38:09,616 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:38:58,205 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:38:58,206 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:38:58,277 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:38:58,334 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:38:58,468 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:39:09,617 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:39:10,680 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:39:10,681 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:39:10,827 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:39:10,867 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:39:10,945 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:40:09,628 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:41:09,630 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:42:09,645 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:42:13,716 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:42:13,716 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:42:13,767 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:42:13,836 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:42:13,890 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:43:09,660 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:43:47,141 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:43:47,142 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:43:47,202 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:43:47,248 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:43:47,294 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:43:48,240 - WARNING - ALERTA: Alto Uso de Memoria - Memoria al 90.4%
+2025-07-30 18:44:08,571 - INFO - Monitor portable detenido
+2025-07-30 18:44:09,676 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:44:23,975 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:44:23,975 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:44:24,020 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:44:24,068 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:44:24,108 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:44:50,085 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:44:50,085 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:44:50,135 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:44:50,154 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:44:50,197 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:45:09,680 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:45:24,024 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:46:09,681 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:46:24,029 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:47:09,682 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:47:24,041 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:47:28,712 - INFO - Monitor portable iniciado sin permisos administrativos
+2025-07-30 18:47:28,713 - INFO - Iniciando monitoreo portable...
+2025-07-30 18:47:28,767 - INFO - Monitoreando: C:\Users\hansbuddenberg/Desktop
+2025-07-30 18:47:28,840 - INFO - Monitoreando: C:\Users\hansbuddenberg/Downloads
+2025-07-30 18:47:28,886 - INFO - Monitoreando: C:\Users\hansbuddenberg/Documents
+2025-07-30 18:47:29,815 - WARNING - ALERTA: Alto Uso de Memoria - Memoria al 90.6%
+2025-07-30 18:48:09,689 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:48:24,044 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:49:09,690 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:50:09,696 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:51:09,702 - INFO - Monitor portable activo - Threads: 3
+2025-07-30 18:52:09,711 - INFO - Monitor portable activo - Threads: 3
