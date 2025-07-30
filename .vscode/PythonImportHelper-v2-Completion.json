@@ -1,0 +1,1309 @@
+[
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "pythoncom",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pythoncom",
+        "description": "pythoncom",
+        "detail": "pythoncom",
+        "documentation": {}
+    },
+    {
+        "label": "win32api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "win32api",
+        "description": "win32api",
+        "detail": "win32api",
+        "documentation": {}
+    },
+    {
+        "label": "win32con",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "win32con",
+        "description": "win32con",
+        "detail": "win32con",
+        "documentation": {}
+    },
+    {
+        "label": "win32file",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "win32file",
+        "description": "win32file",
+        "detail": "win32file",
+        "documentation": {}
+    },
+    {
+        "label": "wmi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wmi",
+        "description": "wmi",
+        "detail": "wmi",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "importPath": "cgi",
+        "description": "cgi",
+        "isExtraImport": true,
+        "detail": "cgi",
+        "documentation": {}
+    },
+    {
+        "label": "make_server",
+        "importPath": "wsgiref.simple_server",
+        "description": "wsgiref.simple_server",
+        "isExtraImport": true,
+        "detail": "wsgiref.simple_server",
+        "documentation": {}
+    },
+    {
+        "label": "request_uri",
+        "importPath": "wsgiref.util",
+        "description": "wsgiref.util",
+        "isExtraImport": true,
+        "detail": "wsgiref.util",
+        "documentation": {}
+    },
+    {
+        "label": "application_uri",
+        "importPath": "wsgiref.util",
+        "description": "wsgiref.util",
+        "isExtraImport": true,
+        "detail": "wsgiref.util",
+        "documentation": {}
+    },
+    {
+        "label": "shift_path_info",
+        "importPath": "wsgiref.util",
+        "description": "wsgiref.util",
+        "isExtraImport": true,
+        "detail": "wsgiref.util",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "pkgutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pkgutil",
+        "description": "pkgutil",
+        "detail": "pkgutil",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "b85decode",
+        "importPath": "base64",
+        "description": "base64",
+        "isExtraImport": true,
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "configparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configparser",
+        "description": "configparser",
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "CodeAnalyzer",
+        "importPath": "code_analyzer",
+        "description": "code_analyzer",
+        "isExtraImport": true,
+        "detail": "code_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "send_alert",
+        "importPath": "quadient_sender_simple",
+        "description": "quadient_sender_simple",
+        "isExtraImport": true,
+        "detail": "quadient_sender_simple",
+        "documentation": {}
+    },
+    {
+        "label": "TestBasicConnections",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):\n        \"Check that a standard connection works\"\n        self.assert_(wmi.WMI())\n    def test_remote_connection(self):\n        \"Check that a remote connection works, if specified\"\n        if \"machine\" in settings:\n            self.assert_(wmi.WMI(settings['machine']))\n        else:\n            warnings.warn(\"Skipping test_remote_connection\")",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestThreadedConnection",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestThreadedConnection(unittest.TestCase):\n    def test_initialised_thread(self):\n        \"\"\"A WMI connection in a thread which has been initialised for COM\n        should succeed.\n        \"\"\"\n        def f(q):\n            pythoncom.CoInitialize()\n            try:\n                try:\n                    wmi.WMI()",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestMoniker",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestMoniker(unittest.TestCase):\n    def test_moniker(self):\n        \"\"\"Look at all possible options for moniker construction and pass\n        them through to a WMI connector\n        \"\"\"\n        for computer in COMPUTERS:\n            if computer in (None, \".\"):\n                local_authorities = [None]\n            else:\n                local_authorities = AUTHORITIES",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestFunctions",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestFunctions(unittest.TestCase):\n    times = [\n       ((2000, 1, 1), \"20000101******.******+***\"),\n       ((2000, 1, 1, 10, 0, 0), \"20000101100000.******+***\"),\n       ((2000, 1, 1, 10, 0, 0, 100), \"20000101100000.000100+***\"),\n       ((2000, 1, 1, 10, 0, 0, 100, \"GMT\"), \"20000101100000.000100+GMT\")\n    ]\n    def test_signed_to_unsigned(self):\n        tests = [\n           (0, 0),",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestWMI",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestWMI(unittest.TestCase):\n    def setUp(self):\n        self.connection = wmi.WMI(namespace=\"root/cimv2\", find_classes=False)\n        self.logical_disks = set(self.connection.Win32_LogicalDisk())\nclass TestNamespace(TestWMI):\n    def test_subclasses_of_simple(self):\n        self.assert_(\"Win32_ComputerSystem\" in self.connection.subclasses_of())\n    def test_subclasses_of_subtree(self):\n        self.assert_(\"Win32_Desktop\" in self.connection.subclasses_of(\"CIM_Setting\"))\n    def test_subclasses_of_pattern(self):",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestNamespace",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestNamespace(TestWMI):\n    def test_subclasses_of_simple(self):\n        self.assert_(\"Win32_ComputerSystem\" in self.connection.subclasses_of())\n    def test_subclasses_of_subtree(self):\n        self.assert_(\"Win32_Desktop\" in self.connection.subclasses_of(\"CIM_Setting\"))\n    def test_subclasses_of_pattern(self):\n        self.assert_(set([\"Win32_LogicalDisk\", \"Win32_MappedLogicalDisk\"]) <= set(self.connection.subclasses_of(\"CIM_LogicalDevice\", \"Win32_.*Disk\")))\n    def test_instances(self):\n        self.assertEquals(self.logical_disks, set(self.connection.instances(\"Win32_LogicalDisk\")))\n    def test_new(self):",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClass",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestClass(TestWMI):\n    def test_class_from_namespace(self):\n        self.assert_(self.connection.Win32_ComputerSystem._namespace is self.connection)\n    def test_class_without_namespace(self):\n        wmi_class = wmi.GetObject(\"winmgmts:Win32_ComputerSystem\")\n        self.assert_(wmi._wmi_class(None, wmi_class)._namespace)\n    def test_query(self):\n        self.assertEquals(\n            set(self.connection.Win32_ComputerSystem.query()),\n            set(self.connection.query(\"SELECT * FROM Win32_ComputerSystem\"))",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestWatcher",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestWatcher(TestWMI):\n    def new_letter(self):\n        return \\\n            set(\"%s:\" % chr(i) for i in range(ord('A'), 1 + ord('Z'))).\\\n            difference(d.DeviceID for d in self.connection.Win32_LogicalDisk()).\\\n            pop()\n    @staticmethod\n    def create(new_letter):\n        #~ print(\"about to create drive with letter\", new_letter)\n        here = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestMethods",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestMethods(TestWMI):\n    def test_exists(self):\n        \"Check that a well-known method is available by attribute\"\n        self.assert_(self.connection.Win32_Process.Create)\n    def test_params(self):\n        \"Check that the names and arrayness of params are picked up when not arrays\"\n        self.assertEquals(\n            [(n, False) for n in [\"CommandLine\", \"CurrentDirectory\", \"ProcessStartupInformation\"]],\n            self.connection.Win32_Process.Create.in_parameter_names\n        )",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestProperties",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestProperties(TestWMI):\n    def test_access(self):\n        \"Check that all properties are available as attributes\"\n        for d in self.logical_disks:\n            break\n        for p in d.ole_object.Properties_:\n            self.assertEqual(p.Value, getattr(d, p.Name))\n    def test_attribute_passthrough(self):\n        \"Check that unknown attributes are passed through to the underlying object\"\n        for d in self.logical_disks:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestInstances",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestInstances(TestWMI):\n    def test_hashable(self):\n        \"Ensure instances are hashable so can be used in a set/dict\"\n        self.assert_(dict.fromkeys(self.logical_disks))\n    def test_equalable(self):\n        \"Ensure instances compare equal\"\n        self.assertEqual(self.logical_disks, self.logical_disks)\n    def test_not_equal_to_anything_else(self):\n        \"Ensure WMI instances are not equal to non-WMI instances\"\n        for d in self.logical_disks:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestInstanceCreation",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestInstanceCreation(TestWMI):\n    def test_create_instance(self):\n        self.assert_(isinstance(self.connection.Win32_ProcessStartup.new(ShowWindow=2), wmi._wmi_object))\nclass TestAssociations(TestWMI):\n    def test_all_properties_available(self):\n        #\n        # An association can contain not only the associated\n        # classes but also extra information as well. Ensure\n        # that both types of data are correctly handled.\n        #",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "TestAssociations",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "class TestAssociations(TestWMI):\n    def test_all_properties_available(self):\n        #\n        # An association can contain not only the associated\n        # classes but also extra information as well. Ensure\n        # that both types of data are correctly handled.\n        #\n        for q in self.connection.Win32_DiskQuota():\n            for p in q.properties:\n                try:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "ini",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "ini = ConfigParser.SafeConfigParser()\nini.read([\"wmitest.master.ini\", \"wmitest.ini\"])\nsettings = {}\nif ini.has_section(\"settings\"):\n    settings.update(ini.items(\"settings\"))\nexcludes = [i.strip() for i in settings.get(\"excludes\", \"\").split(\",\")]\nCOMPUTERS = [None, \".\"]\nif \"machine\" in settings:\n    COMPUTERS.append(settings['machine'])\nIMPERSONATION_LEVELS = [None, \"identify\", \"impersonate\", \"delegate\"]",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "settings = {}\nif ini.has_section(\"settings\"):\n    settings.update(ini.items(\"settings\"))\nexcludes = [i.strip() for i in settings.get(\"excludes\", \"\").split(\",\")]\nCOMPUTERS = [None, \".\"]\nif \"machine\" in settings:\n    COMPUTERS.append(settings['machine'])\nIMPERSONATION_LEVELS = [None, \"identify\", \"impersonate\", \"delegate\"]\nAUTHENTICATION_LEVELS = [None, \"default\", \"none\", \"connect\", \"call\", \"pkt\", \"pktintegrity\", \"pktprivacy\"]\nAUTHORITIES = [None]",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "excludes",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "excludes = [i.strip() for i in settings.get(\"excludes\", \"\").split(\",\")]\nCOMPUTERS = [None, \".\"]\nif \"machine\" in settings:\n    COMPUTERS.append(settings['machine'])\nIMPERSONATION_LEVELS = [None, \"identify\", \"impersonate\", \"delegate\"]\nAUTHENTICATION_LEVELS = [None, \"default\", \"none\", \"connect\", \"call\", \"pkt\", \"pktintegrity\", \"pktprivacy\"]\nAUTHORITIES = [None]\nif set([\"domain\", \"machine\"]) <= set(settings):\n    #~ AUTHORITIES.append(\"kerberos:%s\" % settings['domain'])\n    AUTHORITIES.append(\"ntlmdomain:%s\" % settings['domain'])",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "COMPUTERS",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "COMPUTERS = [None, \".\"]\nif \"machine\" in settings:\n    COMPUTERS.append(settings['machine'])\nIMPERSONATION_LEVELS = [None, \"identify\", \"impersonate\", \"delegate\"]\nAUTHENTICATION_LEVELS = [None, \"default\", \"none\", \"connect\", \"call\", \"pkt\", \"pktintegrity\", \"pktprivacy\"]\nAUTHORITIES = [None]\nif set([\"domain\", \"machine\"]) <= set(settings):\n    #~ AUTHORITIES.append(\"kerberos:%s\" % settings['domain'])\n    AUTHORITIES.append(\"ntlmdomain:%s\" % settings['domain'])\nPRIVILEGES = [None, ['security', '!shutdown']]",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "IMPERSONATION_LEVELS",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "IMPERSONATION_LEVELS = [None, \"identify\", \"impersonate\", \"delegate\"]\nAUTHENTICATION_LEVELS = [None, \"default\", \"none\", \"connect\", \"call\", \"pkt\", \"pktintegrity\", \"pktprivacy\"]\nAUTHORITIES = [None]\nif set([\"domain\", \"machine\"]) <= set(settings):\n    #~ AUTHORITIES.append(\"kerberos:%s\" % settings['domain'])\n    AUTHORITIES.append(\"ntlmdomain:%s\" % settings['domain'])\nPRIVILEGES = [None, ['security', '!shutdown']]\nNAMESPACES = [None, \"root/cimv2\", \"default\"]\nclass TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHENTICATION_LEVELS",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "AUTHENTICATION_LEVELS = [None, \"default\", \"none\", \"connect\", \"call\", \"pkt\", \"pktintegrity\", \"pktprivacy\"]\nAUTHORITIES = [None]\nif set([\"domain\", \"machine\"]) <= set(settings):\n    #~ AUTHORITIES.append(\"kerberos:%s\" % settings['domain'])\n    AUTHORITIES.append(\"ntlmdomain:%s\" % settings['domain'])\nPRIVILEGES = [None, ['security', '!shutdown']]\nNAMESPACES = [None, \"root/cimv2\", \"default\"]\nclass TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):\n        \"Check that a standard connection works\"",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHORITIES",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "AUTHORITIES = [None]\nif set([\"domain\", \"machine\"]) <= set(settings):\n    #~ AUTHORITIES.append(\"kerberos:%s\" % settings['domain'])\n    AUTHORITIES.append(\"ntlmdomain:%s\" % settings['domain'])\nPRIVILEGES = [None, ['security', '!shutdown']]\nNAMESPACES = [None, \"root/cimv2\", \"default\"]\nclass TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):\n        \"Check that a standard connection works\"\n        self.assert_(wmi.WMI())",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "PRIVILEGES",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "PRIVILEGES = [None, ['security', '!shutdown']]\nNAMESPACES = [None, \"root/cimv2\", \"default\"]\nclass TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):\n        \"Check that a standard connection works\"\n        self.assert_(wmi.WMI())\n    def test_remote_connection(self):\n        \"Check that a remote connection works, if specified\"\n        if \"machine\" in settings:\n            self.assert_(wmi.WMI(settings['machine']))",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "NAMESPACES",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "peekOfCode": "NAMESPACES = [None, \"root/cimv2\", \"default\"]\nclass TestBasicConnections(unittest.TestCase):\n    def test_basic_connection(self):\n        \"Check that a standard connection works\"\n        self.assert_(wmi.WMI())\n    def test_remote_connection(self):\n        \"Check that a remote connection works, if specified\"\n        if \"machine\" in settings:\n            self.assert_(wmi.WMI(settings['machine']))\n        else:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmitest",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def link(text, computer, namespace=None, wmi_class=None):\n    link = '<a href=\"/' + quote(computer)\n    if namespace:\n        link += \"/\" + quote(namespace)\n    if wmi_class:\n        link += \"/\" + quote(wmi_class)\n    return link + '\">' + escape(text) + '</a>'\ndef start_doc(title):\n    doc[:] = []\n    doc.append(\"\"\"",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "start_doc",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def start_doc(title):\n    doc[:] = []\n    doc.append(\"\"\"\n    <html>\n    <head>\n    <title>%(title)s</title>\n    <style>\n    body {font-family : Verdana, sans-serif; font-size : 84%%; margin : 3em;}\n    table.items {padding-left : 30px;}\n    li, td {font-family : \"Courier New\", monospace;}",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "finish_doc",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def finish_doc():\n    doc.append(\"\"\"\n    </body>\n    </html>\n    \"\"\" % locals())\ndef doc_table(items, n_cols=3, callback=None):\n    n_rows, n_spare_cols = divmod(len(items), n_cols)\n    doc.append('<table cellspacing=0 class=\"items\">')\n    for n_row in range(n_rows):\n        doc.append(\"<tr>\")",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "doc_table",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def doc_table(items, n_cols=3, callback=None):\n    n_rows, n_spare_cols = divmod(len(items), n_cols)\n    doc.append('<table cellspacing=0 class=\"items\">')\n    for n_row in range(n_rows):\n        doc.append(\"<tr>\")\n        for n_col in range(n_cols):\n            item = items[n_cols * n_col + n_row]\n            if callback:\n                item = callback(item)\n            doc.append(\"<td><li>%s</li></td>\" % item)",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "doc_breadcrumbs",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def doc_breadcrumbs(computer, namespace, wmi_class=None):\n    doc.append('<p class=\"breadcrumbs\">')\n    doc.append('%s &rarr; %s' % (link(computer, computer), link(namespace, computer, namespace)))\n    if wmi_class:\n        doc.append(' &rarr; %s' % (link(wmi_class, computer, namespace, wmi_class)))\n    doc.append('</p>')\ndef doc_wmi_class(computer, namespace, wmi_class, wmi_connection):\n    start_doc(\"WMI: Class %(wmi_class)s in namespace %(namespace)s on %(computer)s\" % locals())\n    doc_breadcrumbs(computer, namespace, wmi_class)\n    doc.append(\"<h2>%(wmi_class)s</h2>\" % locals())",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "doc_wmi_class",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def doc_wmi_class(computer, namespace, wmi_class, wmi_connection):\n    start_doc(\"WMI: Class %(wmi_class)s in namespace %(namespace)s on %(computer)s\" % locals())\n    doc_breadcrumbs(computer, namespace, wmi_class)\n    doc.append(\"<h2>%(wmi_class)s</h2>\" % locals())\n    klass = getattr(wmi_connection, wmi_class)\n    def property_callback(property_name):\n        property = klass.wmi_property(property_name)\n        mapping = property.qualifiers.get(\"MappingStrings\")\n        if mapping is None:\n            return property_name",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "doc_namespace",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def doc_namespace(computer, namespace, wmi_connection):\n    start_doc(\"WMI: Namespace %(namespace)s on %(computer)s\" % locals())\n    doc_breadcrumbs(computer, namespace)\n    namespaces = namespace.split(\"\\\\\")\n    namespace_links = []\n    for i, n in enumerate(namespaces):\n        namespace_links.append(link(n, computer, \"\\\\\".join(namespaces[:i+1])))\n    doc.append(\"<h2>%s</h2>\" % \"\\\\\".join(namespace_links))\n    doc.append(\"<hr>\")\n    subnamespaces = sorted(wmi_connection.__NAMESPACE())",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "handle_namespace",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def handle_namespace(environ, computer, namespace):\n    if not namespace:\n        wmi_connection = wmi.WMI(computer, namespace=\"root/cimv2\")\n        for setting in wmi_connection.Win32_WMISetting():\n            namespace=setting.ASPScriptDefaultNamespace\n            break\n    wmi_connection = wmi.WMI(computer, namespace=namespace, find_classes=True)\n    wmi_class = shift_path_info(environ)\n    if wmi_class:\n        doc_wmi_class(computer, namespace, wmi_class, wmi_connection)",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "handle_computer",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def handle_computer(environ, computer):\n    handle_namespace(environ, computer, shift_path_info(environ))\ndef app(environ, start_response):\n    computer = shift_path_info(environ)\n    if computer == \"favicon.ico\":\n        start_response(\"404 Not Found\", [(\"Content-Type\", \"text/plain\")])\n        return []\n    elif computer:\n        start_response(\"200 OK\", [(\"Content-Type\", \"text/html; charset=utf-8\")])\n        handle_computer(environ, computer)",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def app(environ, start_response):\n    computer = shift_path_info(environ)\n    if computer == \"favicon.ico\":\n        start_response(\"404 Not Found\", [(\"Content-Type\", \"text/plain\")])\n        return []\n    elif computer:\n        start_response(\"200 OK\", [(\"Content-Type\", \"text/html; charset=utf-8\")])\n        handle_computer(environ, computer)\n        return(unicode(d).encode(\"utf8\") + unicode(\"\\n\").encode(\"utf8\") for d in doc)\n    else:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "run_browser",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "def run_browser():\n    import os\n    os.startfile(\"http://localhost:%d\" % PORT)\nif __name__ == '__main__':\n    threading.Timer(3.0, run_browser).start()\n    httpd = make_server('', PORT, app)\n    try:\n        httpd.serve_forever()\n    except KeyboardInterrupt:\n        print(\"Shutting down gracefully...\")",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "doc",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "doc = []\ndef link(text, computer, namespace=None, wmi_class=None):\n    link = '<a href=\"/' + quote(computer)\n    if namespace:\n        link += \"/\" + quote(namespace)\n    if wmi_class:\n        link += \"/\" + quote(wmi_class)\n    return link + '\">' + escape(text) + '</a>'\ndef start_doc(title):\n    doc[:] = []",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "description": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "peekOfCode": "PORT = 8010\ndef run_browser():\n    import os\n    os.startfile(\"http://localhost:%d\" % PORT)\nif __name__ == '__main__':\n    threading.Timer(3.0, run_browser).start()\n    httpd = make_server('', PORT, app)\n    try:\n        httpd.serve_forever()\n    except KeyboardInterrupt:",
+        "detail": "PORTABLE_MONITOR.python-embedded.Scripts.wmiweb",
+        "documentation": {}
+    },
+    {
+        "label": "include_setuptools",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def include_setuptools(args):\n    \"\"\"\n    Install setuptools only if absent, not excluded and when using Python <3.12.\n    \"\"\"\n    cli = not args.no_setuptools\n    env = not os.environ.get(\"PIP_NO_SETUPTOOLS\")\n    absent = not importlib.util.find_spec(\"setuptools\")\n    python_lt_3_12 = this_python < (3, 12)\n    return cli and env and absent and python_lt_3_12\ndef include_wheel(args):",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "include_wheel",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def include_wheel(args):\n    \"\"\"\n    Install wheel only if absent, not excluded and when using Python <3.12.\n    \"\"\"\n    cli = not args.no_wheel\n    env = not os.environ.get(\"PIP_NO_WHEEL\")\n    absent = not importlib.util.find_spec(\"wheel\")\n    python_lt_3_12 = this_python < (3, 12)\n    return cli and env and absent and python_lt_3_12\ndef determine_pip_install_arguments():",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "determine_pip_install_arguments",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def determine_pip_install_arguments():\n    pre_parser = argparse.ArgumentParser()\n    pre_parser.add_argument(\"--no-setuptools\", action=\"store_true\")\n    pre_parser.add_argument(\"--no-wheel\", action=\"store_true\")\n    pre, args = pre_parser.parse_known_args()\n    args.append(\"pip\")\n    if include_setuptools(pre):\n        args.append(\"setuptools\")\n    if include_wheel(pre):\n        args.append(\"wheel\")",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "monkeypatch_for_cert",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def monkeypatch_for_cert(tmpdir):\n    \"\"\"Patches `pip install` to provide default certificate with the lowest priority.\n    This ensures that the bundled certificates are used unless the user specifies a\n    custom cert via any of pip's option passing mechanisms (config, env-var, CLI).\n    A monkeypatch is the easiest way to achieve this, without messing too much with\n    the rest of pip's internals.\n    \"\"\"\n    from pip._internal.commands.install import InstallCommand\n    # We want to be using the internal certificates.\n    cert_path = os.path.join(tmpdir, \"cacert.pem\")",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "bootstrap",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def bootstrap(tmpdir):\n    monkeypatch_for_cert(tmpdir)\n    # Execute the included pip and use it to install the latest pip and\n    # any user-requested packages from PyPI.\n    from pip._internal.cli.main import main as pip_entry_point\n    args = determine_pip_install_arguments()\n    sys.exit(pip_entry_point(args))\ndef main():\n    tmpdir = None\n    try:",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "def main():\n    tmpdir = None\n    try:\n        # Create a temporary working directory\n        tmpdir = tempfile.mkdtemp()\n        # Unpack the zipfile into the temporary directory\n        pip_zip = os.path.join(tmpdir, \"pip.zip\")\n        with open(pip_zip, \"wb\") as fp:\n            fp.write(b85decode(DATA.replace(b\"\\n\", b\"\")))\n        # Add the zipfile to sys.path so that we can import it",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "this_python",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "this_python = sys.version_info[:2]\nmin_version = (3, 9)\nif this_python < min_version:\n    message_parts = [\n        \"This script does not work on Python {}.{}.\".format(*this_python),\n        \"The minimum supported Python version is {}.{}.\".format(*min_version),\n        \"Please use https://bootstrap.pypa.io/pip/{}.{}/get-pip.py instead.\".format(*this_python),\n    ]\n    print(\"ERROR: \" + \" \".join(message_parts))\n    sys.exit(1)",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "min_version",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "min_version = (3, 9)\nif this_python < min_version:\n    message_parts = [\n        \"This script does not work on Python {}.{}.\".format(*this_python),\n        \"The minimum supported Python version is {}.{}.\".format(*min_version),\n        \"Please use https://bootstrap.pypa.io/pip/{}.{}/get-pip.py instead.\".format(*this_python),\n    ]\n    print(\"ERROR: \" + \" \".join(message_parts))\n    sys.exit(1)\nimport os.path",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "DATA",
+        "kind": 5,
+        "importPath": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "description": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "peekOfCode": "DATA = b\"\"\"\nP)h>@6aWAK2mnTQqFMrZI-~di003nH000jF003}la4%n9X>MtBUtcb8c|B0UO2j}6z0X&KUUXrdvZA;\na6ubz6s0VM$QfAw<4YV^ulDhQoop$MlK*;0e<?$L01LzdVw?IP-tnf*qTlkJj!Mom=viw7qw3H>hKz9\nFVcXpQ<V`^+*aO7_tw^Cd$4zs{Pl#j>6{|X*AaQ6!2wJ?w>%d+2&1X4Rc!^r6h-hMtH_<n)`omXfA!z\nc)+2_nTCfpGRv1uvmTkcug)ShEPeC#tJ!y1a)P)ln~75Jc!yqZE1Gl6K?CR$<8F6kVP)a}pU*@~4OAy\n<MFxvzbFl3|p@5?5Ii7qF0_`NT{r7m1lM_B44a9>d5{IF3D`nKTt~p1QY-O00;m^cA{Eu_pjHy0RRA2\n0{{RI0001RX>c!JUu|J&ZeL$6aCu!)OK;mS48HqU5b43r;JP^vOMxACEp{6QLy+m1h%E`C9MAjpBNe-\n8r;{H19{ebpf{zJ27j)n8%0=-6Z#elILRo@w9oRWWbO{z8ujDS!QAC@3T%nJCf;1rX6ghzu#Z}<GSE4\n4EG}J&ngovyJ$%DCh>R@K&*?Hgj1WFD91+adaM4G`4Xs@*hA^t@nbDYdL)-aOjsW~3}QVVby(8=@7U$\nFzj5Y{w!2hUUH`?e9j7WDA;>-1aos>7j{2$~BfyL8p@__Y98dsP#Bs7^<X<wp+-f{6%mc1~N!0T>lWF",
+        "detail": "PORTABLE_MONITOR.python-embedded.get-pip",
+        "documentation": {}
+    },
+    {
+        "label": "PortableWindowsEventMonitor",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.portable_monitor",
+        "description": "PORTABLE_MONITOR.portable_monitor",
+        "peekOfCode": "class PortableWindowsEventMonitor:\n    \"\"\"Monitor portable completo con detección de eventos críticos\"\"\"\n    def __init__(self, config_file: str = 'config.ini'):\n        self.config = configparser.ConfigParser()\n        self.config.read(config_file)\n        self.running = False\n        # Configurar logging\n        self.logger = self._setup_logging()\n        # Inicializar sistema de alertas\n        if ALERT_SYSTEM_AVAILABLE:",
+        "detail": "PORTABLE_MONITOR.portable_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "SuspiciousFileHandler",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.portable_monitor",
+        "description": "PORTABLE_MONITOR.portable_monitor",
+        "peekOfCode": "class SuspiciousFileHandler(FileSystemEventHandler):\n    \"\"\"Handler para archivos sospechosos\"\"\"\n    def __init__(self, monitor):\n        super().__init__()\n        self.monitor = monitor\n    def on_created(self, event):\n        if not event.is_directory:\n            self._check_file(event.src_path, 'creado')\n    def on_modified(self, event):\n        if not event.is_directory:",
+        "detail": "PORTABLE_MONITOR.portable_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "AlertManager",
+        "kind": 6,
+        "importPath": "PORTABLE_MONITOR.quadient_sender_simple",
+        "description": "PORTABLE_MONITOR.quadient_sender_simple",
+        "peekOfCode": "class AlertManager:\n    \"\"\"Gestor de alertas que maneja múltiples canales de notificación\"\"\"\n    def __init__(self, config_file: str = 'config.ini'):\n        self.config = configparser.ConfigParser()\n        self.config.read(config_file)\n        # Configurar logging\n        self.logger = self._setup_logging()\n        # Cache de alertas para evitar spam\n        self.alert_cache = {}\n        self.cooldown_period = self.config.getint('alerts', 'alert_cooldown', fallback=300)",
+        "detail": "PORTABLE_MONITOR.quadient_sender_simple",
+        "documentation": {}
+    },
+    {
+        "label": "send_alert",
+        "kind": 2,
+        "importPath": "PORTABLE_MONITOR.quadient_sender_simple",
+        "description": "PORTABLE_MONITOR.quadient_sender_simple",
+        "peekOfCode": "def send_alert(title: str, message: str, alert_data: Dict[str, Any] = None) -> bool:\n    \"\"\"Función legacy para enviar alertas\"\"\"\n    alert_manager = AlertManager()\n    return alert_manager.send_alert(title, message, alert_data)\nif __name__ == \"__main__\":\n    # Ejemplo y prueba\n    import sys\n    if len(sys.argv) > 1 and sys.argv[1] == 'test':\n        # Prueba del sistema de alertas\n        alert_manager = AlertManager()",
+        "detail": "PORTABLE_MONITOR.quadient_sender_simple",
+        "documentation": {}
+    },
+    {
+        "label": "CodeAnalyzer",
+        "kind": 6,
+        "importPath": "code_analyzer",
+        "description": "code_analyzer",
+        "peekOfCode": "class CodeAnalyzer:\n    \"\"\"Analizador de código para detectar patrones maliciosos\"\"\"\n    def __init__(self, config: configparser.ConfigParser, logger: logging.Logger):\n        self.config = config\n        self.logger = logger\n        # Cache para análisis previos\n        self.analysis_cache = {}\n        self.use_cache = config.getboolean('performance', 'use_file_cache', fallback=True)\n        self.cache_duration = config.getint('performance', 'cache_duration', fallback=3600)\n        # Cargar patrones de configuración",
+        "detail": "code_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "demonstrate_event_monitoring",
+        "kind": 2,
+        "importPath": "demo_eventos_criticos",
+        "description": "demo_eventos_criticos",
+        "peekOfCode": "def demonstrate_event_monitoring():\n    \"\"\"Demuestra las capacidades de monitoreo de eventos\"\"\"\n    print(\"=\" * 70)\n    print(\"   DEMOSTRACIÓN: SISTEMA MEJORADO DE MONITOREO DE EVENTOS\")\n    print(\"=\" * 70)\n    print()\n    # Verificar dependencias\n    try:\n        import win32evtlog\n        import win32evtlogutil",
+        "detail": "demo_eventos_criticos",
+        "documentation": {}
+    },
+    {
+        "label": "search_recent_critical_events",
+        "kind": 2,
+        "importPath": "demo_eventos_criticos",
+        "description": "demo_eventos_criticos",
+        "peekOfCode": "def search_recent_critical_events():\n    \"\"\"Busca eventos críticos recientes para demostración\"\"\"\n    critical_events = []\n    try:\n        import win32evtlog\n        # Buscar en System log\n        hand = win32evtlog.OpenEventLog('localhost', 'System')\n        events = win32evtlog.ReadEventLog(\n            hand,\n            win32evtlog.EVENTLOG_BACKWARDS_READ | win32evtlog.EVENTLOG_SEQUENTIAL_READ,",
+        "detail": "demo_eventos_criticos",
+        "documentation": {}
+    },
+    {
+        "label": "show_example_alert",
+        "kind": 2,
+        "importPath": "demo_eventos_criticos",
+        "description": "demo_eventos_criticos",
+        "peekOfCode": "def show_example_alert():\n    \"\"\"Muestra un ejemplo de alerta de evento crítico\"\"\"\n    print(\"9. 📧 EJEMPLO DE ALERTA MEJORADA:\")\n    print()\n    print(\"   Cuando se detecta un reinicio, recibirá un email como:\")\n    print()\n    print(\"   📧 Asunto: [ALERTA SEGURIDAD] 🚨 EVENTO CRÍTICO: SISTEMA REINICIO/APAGADO\")\n    print()\n    print(\"   🚨 EVENTO CRÍTICO DE SISTEMA\")\n    print(\"   Severidad: CRÍTICO\")",
+        "detail": "demo_eventos_criticos",
+        "documentation": {}
+    },
+    {
+        "label": "UltraPortableMonitor",
+        "kind": 6,
+        "importPath": "monitor_ultra_portable",
+        "description": "monitor_ultra_portable",
+        "peekOfCode": "class UltraPortableMonitor:\n    \"\"\"Monitor ultra portable que funciona solo con Python estándar\"\"\"\n    def __init__(self):\n        self.running = False\n        self.alerts_sent = set()\n        # Configuración básica (modificable)\n        self.config = {\n            'check_interval': 30,\n            'suspicious_processes': [\n                'malware.exe', 'virus.exe', 'trojan.exe', 'keylogger.exe',",
+        "detail": "monitor_ultra_portable",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "monitor_ultra_portable",
+        "description": "monitor_ultra_portable",
+        "peekOfCode": "def main():\n    \"\"\"Función principal\"\"\"\n    print(\"🔐 Monitor Ultra Portable de Eventos Windows\")\n    print(\"📱 Versión sin permisos administrativos\")\n    print(\"🚀 Solo requiere Python estándar\")\n    print(\"=\" * 50)\n    monitor = UltraPortableMonitor()\n    # Configuración interactiva opcional\n    if len(sys.argv) > 1 and sys.argv[1] == '--setup':\n        print(\"\\n⚙️  CONFIGURACIÓN OPCIONAL:\")",
+        "detail": "monitor_ultra_portable",
+        "documentation": {}
+    },
+    {
+        "label": "AlertManager",
+        "kind": 6,
+        "importPath": "quadient_sender_simple",
+        "description": "quadient_sender_simple",
+        "peekOfCode": "class AlertManager:\n    \"\"\"Gestor de alertas que maneja múltiples canales de notificación\"\"\"\n    def __init__(self, config_file: str = 'config.ini'):\n        self.config = configparser.ConfigParser()\n        self.config.read(config_file)\n        # Configurar logging\n        self.logger = self._setup_logging()\n        # Cache de alertas para evitar spam\n        self.alert_cache = {}\n        self.cooldown_period = self.config.getint('alerts', 'alert_cooldown', fallback=300)",
+        "detail": "quadient_sender_simple",
+        "documentation": {}
+    },
+    {
+        "label": "send_alert",
+        "kind": 2,
+        "importPath": "quadient_sender_simple",
+        "description": "quadient_sender_simple",
+        "peekOfCode": "def send_alert(title: str, message: str, alert_data: Dict[str, Any] = None) -> bool:\n    \"\"\"Función legacy para enviar alertas\"\"\"\n    alert_manager = AlertManager()\n    return alert_manager.send_alert(title, message, alert_data)\nif __name__ == \"__main__\":\n    # Ejemplo y prueba\n    import sys\n    if len(sys.argv) > 1 and sys.argv[1] == 'test':\n        # Prueba del sistema de alertas\n        alert_manager = AlertManager()",
+        "detail": "quadient_sender_simple",
+        "documentation": {}
+    },
+    {
+        "label": "test_imports",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_imports():\n    \"\"\"Prueba que todos los módulos se importen correctamente\"\"\"\n    print(\"🔍 Probando importaciones de módulos...\")\n    try:\n        import windows_event_monitor\n        print(\"  ✅ windows_event_monitor importado correctamente\")\n    except ImportError as e:\n        print(f\"  ❌ Error importando windows_event_monitor: {e}\")\n        return False\n    try:",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_dependencies",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_dependencies():\n    \"\"\"Prueba que las dependencias críticas estén disponibles\"\"\"\n    print(\"\\n🔍 Probando dependencias del sistema...\")\n    dependencies = [\n        ('win32evtlog', 'pywin32'),\n        ('wmi', 'WMI'),\n        ('watchdog', 'watchdog'),\n        ('requests', 'requests'),\n        ('plyer', 'plyer (opcional)')\n    ]",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_config_file",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_config_file():\n    \"\"\"Prueba la carga del archivo de configuración\"\"\"\n    print(\"\\n🔍 Probando archivo de configuración...\")\n    config_file = 'config.ini'\n    if not os.path.exists(config_file):\n        print(f\"  ❌ Archivo {config_file} no encontrado\")\n        return False\n    try:\n        config = configparser.ConfigParser()\n        config.read(config_file)",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_code_analyzer",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_code_analyzer():\n    \"\"\"Prueba el analizador de código\"\"\"\n    print(\"\\n🔍 Probando analizador de código...\")\n    try:\n        from code_analyzer import CodeAnalyzer\n        # Configurar logger para pruebas\n        logger = logging.getLogger('test')\n        logger.setLevel(logging.ERROR)  # Solo errores para pruebas\n        config = configparser.ConfigParser()\n        config.read('config.ini')",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_alert_system",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_alert_system():\n    \"\"\"Prueba el sistema de alertas\"\"\"\n    print(\"\\n🔍 Probando sistema de alertas...\")\n    try:\n        from quadient_sender_simple import AlertManager\n        alert_manager = AlertManager()\n        # Crear datos de prueba\n        test_data = {\n            'type': 'system_test',\n            'severity': 'LOW',",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_logs_directory",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_logs_directory():\n    \"\"\"Verifica que el directorio de logs exista y sea escribible\"\"\"\n    print(\"\\n🔍 Probando directorio de logs...\")\n    logs_dir = 'logs'\n    try:\n        # Crear directorio si no existe\n        if not os.path.exists(logs_dir):\n            os.makedirs(logs_dir)\n            print(f\"  ✅ Directorio {logs_dir} creado\")\n        else:",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "test_windows_event_monitor",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def test_windows_event_monitor():\n    \"\"\"Prueba básica del monitor de eventos Windows\"\"\"\n    print(\"\\n🔍 Probando monitor de eventos Windows...\")\n    try:\n        from windows_event_monitor import WindowsEventMonitor\n        # Solo verificar que se puede inicializar\n        monitor = WindowsEventMonitor()\n        print(\"  ✅ WindowsEventMonitor inicializado correctamente\")\n        # Verificar componentes\n        if hasattr(monitor, 'event_log_monitor'):",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "run_full_test",
+        "kind": 2,
+        "importPath": "test_sistema_completo",
+        "description": "test_sistema_completo",
+        "peekOfCode": "def run_full_test():\n    \"\"\"Ejecuta todas las pruebas\"\"\"\n    print(\"=\" * 60)\n    print(\"   PRUEBAS DEL SISTEMA DE MONITOREO DE EVENTOS WINDOWS\")\n    print(\"=\" * 60)\n    tests = [\n        (\"Importaciones\", test_imports),\n        (\"Dependencias\", test_dependencies),\n        (\"Configuración\", test_config_file),\n        (\"Directorio de Logs\", test_logs_directory),",
+        "detail": "test_sistema_completo",
+        "documentation": {}
+    },
+    {
+        "label": "EventLogMonitor",
+        "kind": 6,
+        "importPath": "windows_event_monitor",
+        "description": "windows_event_monitor",
+        "peekOfCode": "class EventLogMonitor:\n    \"\"\"Monitor para Windows Event Log con detección de eventos críticos del sistema\"\"\"\n    def __init__(self, config: configparser.ConfigParser, logger: logging.Logger):\n        self.config = config\n        self.logger = logger\n        self.running = False\n        self.last_check = datetime.now() - timedelta(minutes=5)\n        # Obtener configuración de eventos\n        self.monitored_event_ids = [\n            int(x.strip()) for x in ",
+        "detail": "windows_event_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "ProcessMonitor",
+        "kind": 6,
+        "importPath": "windows_event_monitor",
+        "description": "windows_event_monitor",
+        "peekOfCode": "class ProcessMonitor:\n    \"\"\"Monitor de procesos en ejecución\"\"\"\n    def __init__(self, config: configparser.ConfigParser, logger: logging.Logger):\n        self.config = config\n        self.logger = logger\n        self.running = False\n        self.wmi_conn = None\n        self.code_analyzer = CodeAnalyzer(config, logger)\n        # Obtener procesos sospechosos de la configuración\n        self.suspicious_processes = [",
+        "detail": "windows_event_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemMonitor",
+        "kind": 6,
+        "importPath": "windows_event_monitor",
+        "description": "windows_event_monitor",
+        "peekOfCode": "class FileSystemMonitor(FileSystemEventHandler):\n    \"\"\"Monitor de cambios en archivos críticos\"\"\"\n    def __init__(self, config: configparser.ConfigParser, logger: logging.Logger):\n        super().__init__()\n        self.config = config\n        self.logger = logger\n        self.code_analyzer = CodeAnalyzer(config, logger)\n        # Obtener extensiones críticas\n        self.critical_extensions = [\n            x.strip().lower() for x in ",
+        "detail": "windows_event_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsEventMonitor",
+        "kind": 6,
+        "importPath": "windows_event_monitor",
+        "description": "windows_event_monitor",
+        "peekOfCode": "class WindowsEventMonitor:\n    \"\"\"Monitor principal que coordina todos los monitores\"\"\"\n    def __init__(self, config_file: str = 'config.ini'):\n        self.config = configparser.ConfigParser()\n        self.config.read(config_file)\n        # Configurar logging\n        self.logger = self._setup_logging()\n        # Inicializar monitores\n        self.event_log_monitor = EventLogMonitor(self.config, self.logger)\n        self.process_monitor = ProcessMonitor(self.config, self.logger)",
+        "detail": "windows_event_monitor",
+        "documentation": {}
+    }
+]

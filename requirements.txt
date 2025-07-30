@@ -1,0 +1,26 @@
+# Dependencias para el Sistema de Monitoreo de Eventos Windows
+
+# Dependencias básicas del monitor
+requests>=2.25.0
+configparser>=5.0.0
+
+# Dependencias para monitoreo de eventos Windows
+pywin32>=227
+WMI>=1.5.1
+watchdog>=2.1.0
+
+# Dependencias para análisis de código
+python-magic-bin>=0.4.14; sys_platform == "win32"
+magic>=0.4.27; sys_platform != "win32"
+
+# Dependencias para notificaciones
+plyer>=2.0
+win10toast>=0.9; sys_platform == "win32"
+
+# Dependencias opcionales para alertas
+slack-sdk>=3.15.0
+python-telegram-bot>=13.11
+
+# Utilidades adicionales
+psutil>=5.8.0
+colorama>=0.4.4
