@@ -1,0 +1,72 @@
+2025-07-30 16:25:55,991 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3207eca6ea6sm26613a91.19 - gsmtp')
+2025-07-30 16:25:56,338 - ERROR - Error webhook: 404
+2025-07-30 16:25:56,338 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:25:56,338 - ERROR - Error enviando alerta: Prueba Sistema General
+2025-07-30 16:25:57,478 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23ff6d81671sm91465515ad.175 - gsmtp')
+2025-07-30 16:25:57,759 - ERROR - Error webhook: 404
+2025-07-30 16:25:57,760 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:25:57,760 - ERROR - Error enviando alerta: Evento Crítico de Sistema
+2025-07-30 16:25:58,881 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23fd872440esm103373595ad.81 - gsmtp')
+2025-07-30 16:25:59,170 - ERROR - Error webhook: 404
+2025-07-30 16:25:59,170 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:25:59,170 - ERROR - Error enviando alerta: Proceso Sospechoso
+2025-07-30 16:26:00,465 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7640adfbf87sm11425764b3a.71 - gsmtp')
+2025-07-30 16:26:00,748 - ERROR - Error webhook: 404
+2025-07-30 16:26:00,749 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:26:00,750 - ERROR - Error enviando alerta: Archivo Sospechoso
+2025-07-30 16:26:09,973 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:26:09,973 - ERROR - Error enviando alerta: Prueba NOTIFICATION
+2025-07-30 16:42:56,066 - INFO - Slack enviado: Prueba SLACK
+2025-07-30 16:42:56,067 - INFO - Alerta enviada exitosamente: Prueba SLACK
+2025-07-30 16:43:20,284 - INFO - Slack enviado: 🚨 Sistema - Apagado Inesperado
+2025-07-30 16:43:20,285 - INFO - Alerta enviada exitosamente: 🚨 Sistema - Apagado Inesperado
+2025-07-30 16:43:21,618 - INFO - Slack enviado: ⚠️ Proceso Sospechoso Detectado
+2025-07-30 16:43:21,619 - INFO - Alerta enviada exitosamente: ⚠️ Proceso Sospechoso Detectado
+2025-07-30 16:43:22,949 - INFO - Slack enviado: 📁 Archivo Sospechoso
+2025-07-30 16:43:22,949 - INFO - Alerta enviada exitosamente: 📁 Archivo Sospechoso
+2025-07-30 16:43:24,282 - INFO - Slack enviado: 🔐 Intento de Acceso Fallido
+2025-07-30 16:43:24,283 - INFO - Alerta enviada exitosamente: 🔐 Intento de Acceso Fallido
+2025-07-30 16:43:38,550 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-241e8ac5babsm36185ad.187 - gsmtp')
+2025-07-30 16:43:38,852 - ERROR - Error webhook: 404
+2025-07-30 16:43:39,161 - INFO - Slack enviado: Prueba Sistema General
+2025-07-30 16:43:39,161 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:43:39,161 - ERROR - Error enviando alerta: Prueba Sistema General
+2025-07-30 16:43:40,309 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3207ebc3266sm60480a91.13 - gsmtp')
+2025-07-30 16:43:40,601 - ERROR - Error webhook: 404
+2025-07-30 16:43:40,923 - INFO - Slack enviado: Evento Crítico de Sistema
+2025-07-30 16:43:40,923 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:43:40,923 - ERROR - Error enviando alerta: Evento Crítico de Sistema
+2025-07-30 16:43:42,035 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-241d1ef6832sm196625ad.25 - gsmtp')
+2025-07-30 16:43:42,330 - ERROR - Error webhook: 404
+2025-07-30 16:43:42,644 - INFO - Slack enviado: Proceso Sospechoso
+2025-07-30 16:43:42,644 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:43:42,645 - ERROR - Error enviando alerta: Proceso Sospechoso
+2025-07-30 16:43:44,267 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-241e899a51esm68315ad.115 - gsmtp')
+2025-07-30 16:43:44,552 - ERROR - Error webhook: 404
+2025-07-30 16:43:44,957 - INFO - Slack enviado: Archivo Sospechoso
+2025-07-30 16:43:44,957 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:43:44,957 - ERROR - Error enviando alerta: Archivo Sospechoso
+2025-07-30 16:44:04,123 - INFO - Slack enviado: 🎉 Integración Slack Completada
+2025-07-30 16:44:04,123 - INFO - Alerta enviada exitosamente: 🎉 Integración Slack Completada
+2025-07-30 16:48:55,560 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7640881ededsm11465057b3a.17 - gsmtp')
+2025-07-30 16:48:55,913 - ERROR - Error webhook: 404
+2025-07-30 16:48:56,231 - INFO - Slack enviado: Prueba Sistema General
+2025-07-30 16:48:56,232 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:48:56,232 - ERROR - Error enviando alerta: Prueba Sistema General
+2025-07-30 16:48:57,364 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7640863506dsm10743500b3a.18 - gsmtp')
+2025-07-30 16:48:57,658 - ERROR - Error webhook: 404
+2025-07-30 16:48:57,987 - INFO - Slack enviado: Evento Crítico de Sistema
+2025-07-30 16:48:57,987 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:48:57,988 - ERROR - Error enviando alerta: Evento Crítico de Sistema
+2025-07-30 16:48:59,115 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b3f7f58e677sm9829391a12.18 - gsmtp')
+2025-07-30 16:48:59,398 - ERROR - Error webhook: 404
+2025-07-30 16:48:59,717 - INFO - Slack enviado: Proceso Sospechoso
+2025-07-30 16:48:59,718 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:48:59,718 - ERROR - Error enviando alerta: Proceso Sospechoso
+2025-07-30 16:49:01,357 - ERROR - Error enviando email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-241d1ef65d2sm268685ad.31 - gsmtp')
+2025-07-30 16:49:01,648 - ERROR - Error webhook: 404
+2025-07-30 16:49:01,966 - INFO - Slack enviado: Archivo Sospechoso
+2025-07-30 16:49:01,966 - WARNING - No hay bibliotecas disponibles para notificaciones
+2025-07-30 16:49:01,966 - ERROR - Error enviando alerta: Archivo Sospechoso
+2025-07-30 16:50:14,051 - INFO - Slack enviado: Prueba SLACK
+2025-07-30 16:50:14,052 - INFO - Alerta enviada exitosamente: Prueba SLACK
