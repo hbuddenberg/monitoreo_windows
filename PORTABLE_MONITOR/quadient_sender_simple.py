@@ -34,12 +34,16 @@ import json
 import time
 import smtplib
 import requests
+import urllib3
 import configparser
 import logging
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from typing import Dict, List, Optional, Any
+
+# Deshabilitar warnings SSL para entornos corporativos
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 try:
     from plyer import notification
@@ -90,6 +94,20 @@ class AlertManager:
             'specific_event': '🎯 EVENTO ESPECÍFICO DETECTADO: ID {event_id} - {source_name}',
             'general_suspicious': 'Evento potencialmente sospechoso: ID {event_id} - {source_name}'
         }
+        
+    def _safe_post_request(self, url: str, **kwargs) -> requests.Response:
+        """Realiza peticiones POST de forma segura manejando problemas SSL en entornos corporativos"""
+        try:
+            # Intentar primero con verificación SSL normal
+            return requests.post(url, timeout=10, **kwargs)
+        except requests.exceptions.SSLError as e:
+            self.logger.warning(f"Error SSL detectado para {url}. Intentando sin verificación SSL...")
+            # Si falla SSL, intentar sin verificación (común en entornos corporativos)
+            kwargs['verify'] = False
+            return requests.post(url, timeout=10, **kwargs)
+        except Exception as e:
+            self.logger.error(f"Error en petición POST a {url}: {e}")
+            raise
         
     def _setup_logging(self) -> logging.Logger:
         """Configura el sistema de logging para alertas"""
@@ -426,7 +444,7 @@ class AlertManager:
                     'disable_web_page_preview': disable_preview
                 }
                 
-                response = requests.post(url, json=payload, timeout=10)
+                response = self._safe_post_request(url, json=payload)
                 
                 if response.status_code == 200:
                     self.logger.info(f"Telegram enviado a {chat_id}: {title}")
@@ -503,7 +521,7 @@ class AlertManager:
                 if not webhook_url:
                     continue
                     
-                response = requests.post(webhook_url, json=payload, timeout=10)
+                response = self._safe_post_request(webhook_url, json=payload)
                 
                 if response.status_code == 204:  # Discord webhooks return 204 on success
                     self.logger.info(f"Discord enviado: {title}")
@@ -626,7 +644,7 @@ class AlertManager:
                 if not webhook_url:
                     continue
                     
-                response = requests.post(webhook_url, json=payload, timeout=10)
+                response = self._safe_post_request(webhook_url, json=payload)
                 
                 if response.status_code == 200:
                     self.logger.info(f"Slack enviado: {title}")
@@ -779,7 +797,7 @@ class AlertManager:
                         "text": {"body": formatted_message}
                     }
                 
-                response = requests.post(api_endpoint, json=payload, headers=headers, timeout=10)
+                response = self._safe_post_request(api_endpoint, json=payload, headers=headers)
                 
                 if response.status_code == 200:
                     self.logger.info(f"WhatsApp enviado a {phone_number}: {title}")
@@ -854,7 +872,7 @@ class AlertManager:
                 if not webhook_url:
                     continue
                     
-                response = requests.post(webhook_url, json=payload, timeout=10)
+                response = self._safe_post_request(webhook_url, json=payload)
                 
                 if response.status_code == 200:
                     self.logger.info(f"Teams enviado: {title}")
@@ -997,7 +1015,7 @@ class AlertManager:
                 payload['retry'] = 60  # Reintentar cada 60 segundos
                 payload['expire'] = 3600  # Expirar después de 1 hora
             
-            response = requests.post('https://api.pushover.net/1/messages.json', data=payload, timeout=10)
+            response = self._safe_post_request('https://api.pushover.net/1/messages.json', data=payload)
             
             if response.status_code == 200:
                 self.logger.info(f"Pushover enviado: {title}")

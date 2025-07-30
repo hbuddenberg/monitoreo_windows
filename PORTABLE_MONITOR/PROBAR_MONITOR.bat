@@ -35,7 +35,7 @@ if errorlevel 1 (
 
 echo.
 echo Enviando alerta de prueba a Slack...
-"python-embedded\python.exe" -c "import requests; response = requests.post('https://hooks.slack.com/services/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', json={'text': 'Test desde PROBAR_MONITOR.bat - Sistema funcionando', 'username': 'Security Monitor', 'icon_emoji': ':white_check_mark:'}); print('Slack:', 'OK' if response.status_code == 200 else 'ERROR')"
+"python-embedded\python.exe" test_ssl_fix.py
 
 echo.
 echo Probando monitor (5 segundos)...
