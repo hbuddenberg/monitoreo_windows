@@ -1,6 +1,6 @@
 import requests
 
-SLACK_WEBHOOK_URL = "YOUR_WEBHOOK_URL"  # tu URL
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"  # tu URL
 
 def enviar_alerta_slack(mensaje: str):
     payload = {

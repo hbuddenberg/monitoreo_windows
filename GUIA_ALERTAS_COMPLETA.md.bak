@@ -22,7 +22,7 @@ El sistema de monitoreo de Windows ahora incluye un sistema de alertas avanzado 
 ```ini
 [slack]
 enabled = true
-webhook_urls = YOUR_WEBHOOK_URL
+webhook_urls = https://hooks.slack.com/services/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
 channel = #security-alerts
 username = Security Monitor
 icon_emoji = :warning:

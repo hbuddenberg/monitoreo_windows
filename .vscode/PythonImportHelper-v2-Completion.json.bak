@@ -1176,7 +1176,7 @@
         "kind": 5,
         "importPath": "import requests",
         "description": "import requests",
-        "peekOfCode": "SLACK_WEBHOOK_URL = \"YOUR_WEBHOOK_URL\"  # tu URL\ndef enviar_alerta_slack(mensaje: str):\n    payload = {\n        \"text\": mensaje  # Puedes usar también \"blocks\" para formato avanzado\n    }\n    r = requests.post(SLACK_WEBHOOK_URL, json=payload)\n    if r.status_code != 200:\n        print(\"Error al enviar a Slack:\", r.status_code, r.text)\n# Uso\nenviar_alerta_slack(\"🚨 Alerta crítica: servicio X falló a las 12:34\")",
+        "peekOfCode": "SLACK_WEBHOOK_URL = \"https://hooks.slack.com/services/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\"  # tu URL\ndef enviar_alerta_slack(mensaje: str):\n    payload = {\n        \"text\": mensaje  # Puedes usar también \"blocks\" para formato avanzado\n    }\n    r = requests.post(SLACK_WEBHOOK_URL, json=payload)\n    if r.status_code != 200:\n        print(\"Error al enviar a Slack:\", r.status_code, r.text)\n# Uso\nenviar_alerta_slack(\"🚨 Alerta crítica: servicio X falló a las 12:34\")",
         "detail": "import requests",
         "documentation": {}
     },

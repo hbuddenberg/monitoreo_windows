@@ -7,7 +7,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def test_slack_ssl():
     print('Testing Slack webhook with SSL fix...')
-    webhook_url = 'YOUR_WEBHOOK_URL'
+    webhook_url = 'https://hooks.slack.com/services/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'
     message = {
         'text': 'SSL Fix Test - Monitor Portable funcionando correctamente en servidor corporativo',
         'username': 'Security Monitor',
